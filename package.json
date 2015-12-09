@@ -1,0 +1,19 @@
+{
+  "name": "k7",
+  "version": "0.0.1",
+  "description": "Simple shell command recorder and reproducer.",
+  "main": "bin/rec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Gil <hey@andregil.net>",
+  "license": "ISC",
+  "bin": {
+    "rec": "bin/rec.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "commander": "^2.9.0",
+    "js-yaml": "^3.4.6"
+  }
+}
