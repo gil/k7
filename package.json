@@ -9,7 +9,7 @@
   "author": "André Gil <hey@andregil.net>",
   "license": "ISC",
   "bin": {
-    "rec": "bin/rec.js"
+    "rec": "bin/rec"
   },
   "preferGlobal": true,
   "dependencies": {
